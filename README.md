@@ -1,10 +1,6 @@
 # Edgar de Jesus Amado 
-CTO @Rocketseat.
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)]
-(https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schellfernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)]
-(mailto:diego.schell.f@gmail.com) -->
+FastTeam co-founder.
+
 [![Twitter Badge](https://img.shields.io/badge/-@edgarfeliciano-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/edgarfeliciano)](https://twitter.com/edgarfeliciano) 
 [![Linkedin Badge](https://img.shields.io/badge/-Edgar%20Amado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgar-amado-52478619a/)](https://www.linkedin.com/in/edgar-amado-52478619a/) 
 [![Gmail Badge](https://img.shields.io/badge/-edgjesus@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgjesus@gmail.com)](mailto:edgjesus@gmail.com)
