@@ -10,7 +10,7 @@ FastTeam co-founder.
 Welcome to my GitHub profile!<br>
 I'm Edgar de Jesus Feliciano Amado, Software Engineer and content creator at youtube.<br>
 Full Stack Developer | Focused on ReactJS, NodeJS and React Native.<br>
-Passionate about design, UI and UX.
+Passionate about Design, UI and UX.
 
 ## Facts about me...
 - Nothing to write
