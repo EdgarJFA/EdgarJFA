@@ -1,4 +1,4 @@
-# Edgar de Jesus Amado 
+# Edgar de Jesus F. Amado 
 FastTeam co-founder.
 
 [![Twitter Badge](https://img.shields.io/badge/-@edgarfeliciano-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/edgarfeliciano)](https://twitter.com/edgarfeliciano) 
